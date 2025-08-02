@@ -1,0 +1,552 @@
+
+.main{
+
+border: 0px;
+margin: 0px;
+padding:12px ;
+
+
+ 
+ 
+ 
+ 
+}
+.sub1 b:hover{
+    text-decoration: underline;
+    font-weight: bold;               
+  text-decoration: none;           
+  border-bottom: 5px solid black;  
+  padding-bottom: 40px;   
+
+}
+.sub2 b:hover{
+      text-decoration: underline;
+      font-weight: bold;              
+  text-decoration: none;           
+  border-bottom: 5px solid black; 
+  padding-bottom: 40px;   
+
+}
+.sub2 b:hover{
+      text-decoration: underline;
+       font-weight: bold;               
+  text-decoration: none;           
+  border-bottom: 5px solid black;  
+  padding-bottom: 40px; 
+}
+.sub3 b:hover{
+      text-decoration: underline;
+       font-weight: bold;               
+  text-decoration: none;           
+  border-bottom: 5px solid black;  
+  padding-bottom: 40px; 
+}
+.sub4 b:hover{
+      text-decoration: underline;
+       font-weight: bold;               
+  text-decoration: none;           
+  border-bottom: 5px solid black;  
+  padding-bottom: 40px; 
+}
+
+
+body{
+    margin: 0px;
+          font-family: 'Segoe UI', Arial, sans-serif;
+
+}
+.sub1{
+    margin-left: 32px;
+    padding: top 10px;;
+    margin-top: 10PX;
+ font-family: 'Roboto', sans-serif; 
+  cursor: pointer;
+
+    
+
+}
+.sub2{
+    margin-left: 32px;
+     margin-right: 32PX;
+     margin-top: 10PX;
+      cursor: pointer;
+     font-family: 'Roboto', sans-serif; 
+}
+.sub4{
+    margin-left: 32px;
+    margin-top: 10PX;
+     cursor: pointer;
+     font-family: 'Roboto', sans-serif
+      
+}
+.sub3{
+    margin-top: 10PX;
+     cursor: pointer; 
+     font-family: 'Roboto', sans-serif
+    
+}
+.text{
+    display: flex;
+    margin-left: 100px;
+    padding: 10px;
+
+}
+.boy img{
+    
+    width: 88%;
+    border-radius: 50px;
+     cursor: pointer;
+
+
+}
+.boy{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+     align-items: center ;
+     margin-top: 43px;
+     
+}
+.Exp{
+
+  font-family:  'Poppins', Arial, sans-serif;
+  font-size: bold;
+  font-size: 20px;
+  color: #000000; 
+  display: flex;
+  margin-left: 600px;
+  margin-top: 50px;
+
+}
+
+.studio{
+   
+  font-weight: bold;
+  font-size: 32px;
+  color: #000000; 
+  margin-left: 200px;
+  margin-top: 150px;
+
+  
+  
+}
+.image2 img{
+    border-radius: 30px;
+    margin-left: 180px;
+    margin-top: 20px;
+    
+    
+}
+.expmain{
+    display:flex;
+
+}
+
+.button1 button{
+     border-radius: 80px;
+     width: 300px;
+    height: 30px;
+    cursor: pointer;
+
+}
+.button1 button:hover{
+    background-color: lightgrey;
+    
+}
+
+.news{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+
+.image3 img{
+    width: 500px;
+    border-top-left-radius: 30px;
+    border-top-right-radius:30px;
+
+
+    
+    
+}
+.first{
+    
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    width: 500px;
+    margin-left: 50px;
+    margin-top:20px;
+    margin-right: 100;
+cursor: pointer;
+
+}
+.content1{
+    width: 500px;
+    margin-left:10px ;
+    padding: 10px;
+}
+.log a{
+    color: #000000;
+
+}
+.scnd{
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    width: 500px;
+    margin-left: 50px;
+    margin-top:20px;
+    margin-right: 100px;
+    cursor: pointer;
+    
+}
+.content2{
+     width: 500px;
+    margin-left:10px ;
+    padding: 10px;
+
+}
+.imageii img{
+     width: 500px;
+    border-top-left-radius: 30px;
+    border-top-right-radius:30px;
+cursor: pointer;
+
+}
+.main3{
+    display: grid;
+    grid-template-columns: auto auto;
+     justify-content: center;
+     
+
+}
+
+.log2 a{
+    color: #000000;
+}
+
+.india75 img{
+    border-radius: 30px;
+}
+.atch{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    border-radius: 30px;
+    margin-left: 69rem;
+position: absolute;
+height: 35rem;
+top: -7rem ;
+box-shadow: #000000;
+
+
+}
+.para{
+    margin-left: 100px;
+    padding: 10px;
+}
+.button2 button{
+   
+    border-radius: 80px;
+     width: 400px;
+    height: 30px;
+    cursor: pointer;
+    margin-left: 120px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+.button2 button:hover{
+    background-color:lightgray;
+}
+.india_main{
+    position: relative;
+    display: flex;
+    justify-content:center;
+    margin-right: 40rem;
+    margin-top: 13rem;
+
+}
+.atch2{
+    margin-top: 20px;
+}
+
+.brand{
+    margin-left: 650px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.coca-cola img{
+    width: 181.33px;
+    height: 181.33x;
+    margin-top: 25px;
+    margin-left: 20px;
+    
+
+}
+.coca-cola{
+    background-color: rgb(255, 255, 255);
+    width:229.33px;
+    height: 229.33px;
+    border-radius:20px;
+    transition: transform 0.3s ease;
+}
+
+.sprite{
+    background-color: rgb(255, 255, 255);
+    width:229.33px;
+    height: 229.33px;
+    border-radius:20px;
+    transition: transform 0.3s ease;
+}
+.sprite img{
+    width: 181.33px;
+    height: 181.33x;
+    margin-top: 25px;
+    margin-left: 20px;
+transition: transform 0.3s ease;
+}
+.tu{
+     background-color: rgb(255, 255, 255);
+    width:229.33px;
+    height: 229.33px;
+    border-radius:20px;
+transition: transform 0.3s ease;
+}
+.tu img{
+     width: 181.33px;
+    height: 181.33x;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.limca{
+     background-color: rgb(255, 255, 255);
+    width:229.33px;
+    height: 229.33px;
+    border-radius:20px;
+    transition: transform 0.3s ease;
+}
+.limca img{
+     width: 181.33px;
+    height: 181.33x;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.fanta{
+     background-color: rgb(255, 255, 255);
+    width:229.33px;
+    height: 229.33px;
+    border-radius:20px;
+    transition: transform 0.3s ease;
+}
+.fanta img{
+     width: 181.33px;
+    height: 181.33x;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.maaza{
+     background-color: rgb(255, 255, 255);
+    width:229.33px;
+    height: 229.33px;
+    border-radius:20px;
+     transition: transform 0.3s ease;
+     
+
+   
+}
+.maaza img{
+     width: 181.33px;
+    height: 181.33x;
+    margin-top: 25px;
+    margin-left: 20px;
+    
+}
+
+.brand_main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    width: 51%;
+    margin: 0 auto;
+}
+.maaza:hover{
+    transform: scale(1.1); 
+    cursor: zoom-in;
+    cursor: pointer;
+}
+.fanta:hover{
+
+transform: scale(1.1); 
+    cursor: zoom-in;
+    cursor: pointer;
+}
+   .limca:hover{
+    transform: scale(1.1); 
+    cursor: zoom-in;
+    cursor: pointer;
+   }
+   .fanta:hover{
+    transform: scale(1.1); 
+    cursor: zoom-in;
+    cursor: pointer;
+   }
+   .tu:hover{
+    transform: scale(1.1); 
+    cursor: zoom-in;
+    cursor: pointer;
+   }
+   .sprite:hover{
+    transform: scale(1.1); 
+    cursor: zoom-in;
+    cursor: pointer;
+   }
+  
+  .coca-cola:hover{
+        transform: scale(1.1); 
+    cursor: zoom-in;
+    cursor: pointer;
+   }
+   .view button{
+    width:327px;
+    margin-left: 600px;
+    border-radius: 50px;
+    height: 40px;
+    background-color: #000000;
+    margin-top: 50px;
+    border: 0px;
+    margin-bottom: 80px;
+
+   }
+   .view button:hover{
+    cursor: pointer;
+    background-color: #2a2929;
+   }
+
+   .vpara{
+    margin-left: 215px;
+    width:69rem;
+    margin-right: 10px;
+     font-family: 'Open Sans', Arial, sans-serif;
+     font-size: 17px;
+     
+   }
+
+  
+   .localogo img{
+    width: 18px;
+    border: 0px;
+    height: 18px
+    
+    
+}
+.localogo img{
+    margin-left: -5px;
+}
+
+   .localogo button{
+   background-color: #000000cd;
+   color: rgb(255, 255, 255);
+   border-radius: 30px;
+   width: 200.28px;
+   height: 60;
+   border-color: rgb(255, 255, 255);
+   margin-left: 650px;
+   margin-top: 80px;
+   padding: 8px;
+   cursor: pointer;
+   
+
+   }
+
+   .localogo button:hover{
+    background-color: #1c1919;
+   }
+   .logoimg img{
+ margin-left: 215px;
+ margin-top: 80px;
+
+   }
+   
+   .footer{
+   
+    display: flex;
+    
+   }
+
+
+   .line1 hr{
+    width: 1120px;
+    margin-top: 60px;
+   }
+   .mainfooter{
+     background-color: #000000;
+    color: rgb(255, 255, 255);
+    height: 750px;
+   }
+   .us{
+    font-size: small;
+    margin-left: 100px;
+    margin-top: 20px;
+   }
+   .abt{
+    font-size:medium;
+    margin-left: 100px; 
+    cursor: pointer; 
+  
+   }
+   .need{
+    font-size: small;
+    margin-left: 160px;
+    margin-top: 20px;
+   }
+   .head22{
+    display: flex;
+    margin-left: 100px;
+   }
+   .abt2{
+    font-size: medium;
+    margin-left: 120px;
+    cursor: pointer; ;
+  
+ }
+   .out1{
+    display: flex;
+    margin-left: 100px;
+    cursor: pointer;
+
+
+   }
+   .icone button{
+border-radius: 100rem;
+width: 50px;
+padding: 15px;
+background-color: #000000;
+color: rgb(255, 255, 255);
+ border-color: rgb(255, 255, 255);
+ cursor: pointer;
+   }
+   .icone button:hover{
+    background-color: #1c1919;
+   }
+   .icone{
+    display: flex;
+    margin-left: 550px;
+    margin-top: 30px;
+    gap: 10px;
+   
+   }
+   .out2{
+    margin-top: 100px;
+    margin-left: 100px;
+   }
+   .line2 hr{
+    width: 1120px;
+    margin-top: 60px;
+   
+   }
+   .last{
+    font-size: small;
+    margin-left: 1020px;
+    margin-top: 50px;
+    
+   }
